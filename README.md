@@ -7,6 +7,6 @@ It comes with three different levels where you can start in a easy mode if you a
 If your are Intermediate and know something about RGB patterns and good as guessing colors then you can play in medium mode.
 Now if you think you are expert and know about these RGB colors then you can go for expert mode
 
-NOTE  : This is a fun Game and as well as a RGB generator tool for generating new color patterns on every new click
+NOTE  : This is a fun Game and as well as a RGB generatori tool for generating new color patterns on every new click
 
 NOTE : This is a additional line coming from feature.
